@@ -12,13 +12,13 @@ https://youtu.be/SL6-usAF8eI
 
 and some test accounts or you can signup a new one:
 test1@gmail.com
-12345678
+PW: 12345678
 
 test2@gmail.com
-12345678
+PW: 12345678
 
 test3@gmail.com
-12345678
+PW: 12345678
 
 
 
